@@ -1,0 +1,14 @@
+torch
+torchvision
+pandas
+numpy
+scikit-learn
+Pillow
+matplotlib
+torch 
+torchvision
+pandas
+numpy
+scikit-learn
+pillow 
+matplotlib
